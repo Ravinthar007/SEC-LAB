@@ -1,0 +1,14 @@
+.main{
+    height: 100vh;
+    background-image: url(./image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ul{
+    list-style: none;
+    display: flex;
+}
+.box1{
+    height: 500px;
+
+}
